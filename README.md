@@ -26,3 +26,18 @@ npm i nodemon --save-dev
 
 => npm start
 
+# Thursday
+
+## When pulling frmo a github
+
+=> npm i
+will install all the packages of the folder
+
+Goals:
+
+- Set up a MongoDB Cloud Atlas
+- Configure environment variables In express
+- Deploy to Heroku
+- Config Vars (environment variables) in Heroku
+- Basic react app and eployment to netlify
+- CORS in Express
